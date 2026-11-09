@@ -1,1 +1,1 @@
-web: npm run tunnel
+web: npm run start:server
